@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-Gif-Feed/static/css/main.0f7acf68.css",
+    "main.js": "/React-Gif-Feed/static/js/main.bcaaa75b.js",
+    "static/js/787.c1112931.chunk.js": "/React-Gif-Feed/static/js/787.c1112931.chunk.js",
+    "static/media/boredApe.jpg": "/React-Gif-Feed/static/media/boredApe.61c49465777cf759b84f.jpg",
+    "index.html": "/React-Gif-Feed/index.html",
+    "main.0f7acf68.css.map": "/React-Gif-Feed/static/css/main.0f7acf68.css.map",
+    "main.bcaaa75b.js.map": "/React-Gif-Feed/static/js/main.bcaaa75b.js.map",
+    "787.c1112931.chunk.js.map": "/React-Gif-Feed/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f7acf68.css",
+    "static/js/main.bcaaa75b.js"
+  ]
+}
