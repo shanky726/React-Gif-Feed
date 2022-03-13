@@ -1,0 +1,35 @@
+textarea {
+    border: none;
+    overflow-y: scroll;
+    outline: none;
+    color: white;
+    background-color: #242526;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    height: '500px';
+    resize: none; /*remove the resize handle on the bottom right*/
+}
+textarea::-webkit-scrollbar {
+    display: none;
+  }
+
+  textarea::placeholder {
+    color:grey;  
+    font-weight: 400;
+  }
+
+  span{
+      color: white;
+  }
+
+  input {
+      outline: none;
+      border: none;
+      box-shadow: "10px";
+  }
+
+  input::placeholder {
+    color:grey;  
+    font-weight: 400;
+  }
